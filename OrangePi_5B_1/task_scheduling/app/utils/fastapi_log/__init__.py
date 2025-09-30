@@ -1,0 +1,1 @@
+from .uvicorn_logger import setup_logging
